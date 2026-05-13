@@ -1,2 +1,2 @@
 # Univault
-It is a university smester project. It is a management system. 
+It is a university semester project. It is a management system. 
